@@ -1,9 +1,16 @@
 body {
 }
 
+
 nav{
     height:50px;
 }
+
+a{
+    color: rgb(43, 106, 214);
+    text-decoration:none;
+}
+ 
 ul {
    float: right;
    text-align:right;
@@ -29,5 +36,4 @@ ul a:hover {
 figure{
     width:400px;
 }
- 
  
