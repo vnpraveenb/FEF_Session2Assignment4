@@ -1,0 +1,33 @@
+body {
+}
+
+nav{
+    height:50px;
+}
+ul {
+   float: right;
+   text-align:right;
+    width: 100%;
+    height: 100%;
+   
+    
+}
+li {
+    display:inline;
+}
+ul a {
+    color: rgb(43, 106, 214);
+    
+    margin-right: 10px;
+    text-decoration: none;;
+}
+ul a:hover {
+    color: rgb(17, 49, 102);
+    background:rgb(219, 250, 247)
+}
+
+figure{
+    width:400px;
+}
+ 
+ 
